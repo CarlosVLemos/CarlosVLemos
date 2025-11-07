@@ -10,23 +10,23 @@
 
 ## 🚀 Sobre Mim
 
-Sou **desenvolvedor em formação** gosto de criar sistemas escalaveis e melhorar ainda mais as minhas habilidades tecnicas
+Sou **desenvolvedor em formação** apaixonado por criar **sistemas escaláveis** e em constante busca por aprimorar minhas **habilidades técnicas**. Acredito que bom código nasce da combinação de conhecimento sólido.
 
-🎯 **O que me motiva?**
-- 💡 Transformar ideias malucas em projetos funcionais
-- 🔐 Construir aplicações seguras e escaláveis
-- 📊 Criar dashboards que contam histórias com dados
+### 🎯 O que me motiva?
+- 💡 **Transformar** minhas ideias em projetos funcionais e impactantes
+- 🔐 **Construir aplicações** seguras, robustas e escaláveis
+- 📊 **Criar dashboards** que transformam dados em insights valiosos
 
-Quando não estou programando, provavelmente estou:
-- ☕ Tomando meu enésimo café do dia
-- 📚 Estudando alguma tecnologia nova
-- 🌱 Descansando aminha mente
+### 🌟 Quando não estou programando...
+- ☕ Tomando meu enésimo café do dia (combustível essencial!)
+- 📚 Estudando alguma tecnologia nova ou aprofundando nas que já conheço
+- 🧘‍♂️ Descansando a mente
 
 ---
 
 ## 🛠️ Meu Arsenal Tecnológico
 
-### Frontend
+### 💻 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,21 +34,27 @@ Quando não estou programando, provavelmente estou:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Database & DevOps
+### 🗄️ Database & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📱 Mobile & Outros
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -73,24 +79,31 @@ Quando não estou programando, provavelmente estou:
 
 ---
 
-## 🌱 Atualmente Mergulhado Em
+## 🌱 Jornada de Aprendizado
 
 ```python
-estudos_atuais = {
-    "DevOps": ["Docker 🐳", "CI/CD"],
-    "Backend": ["Django REST Framework", "Laravel", "PostgreSQL"],
-    "Frontend": ["React", "Vue.js", "Next.js"],
-    "Data": ["Power BI + APIs", "Análise de anomalias"],
-    "Mobile": ["Flutter", "Progressive Web Apps"],
-    "Próximos": ["AWS", "Microserviços", "GraphQL"]
-}
-
-def aprender_sempre():
-    while True:
-        estudar()
-        praticar()
-        construir_projetos()
-        compartilhar_conhecimento()
+class DesenvolvedorEmEvolucao:
+    def __init__(self):
+        self.nome = "Carlos Victor"
+        self.foco_atual = [
+            "🐳 Docker & CI/CD",
+            "🔧 Django REST Framework & Laravel",
+            "⚛️ React, Vue.js & Next.js",
+            "📊 Power BI + Integração de APIs",
+            "📱 Flutter & Progressive Web Apps"
+        ]
+        self.proximos_passos = ["AWS", "Microserviços", "GraphQL", "Kubernetes"]
+    
+    def rotina_diaria(self):
+        while True:
+            self.estudar_novas_tecnologias()
+            self.praticar_com_projetos_reais()
+            self.construir_portfolio()
+            self.compartilhar_conhecimento()
+            self.tomar_cafe() 
+    
+    def mentalidade(self):
+        return "Código limpo + Boas práticas + Aprendizado constante = Evolução"
 ```
 
 ---
@@ -99,33 +112,41 @@ def aprender_sempre():
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=Guarani-Frontend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/Guarani-Frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=Guarani-Backend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/Guarani-Backend)
+[![Guarani Frontend](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=Guarani-Frontend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/Guarani-Frontend)
+[![Guarani Backend](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=Guarani-Backend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/Guarani-Backend)
 
 </div>
+
 
 ---
 
 
 <div align="center">
+  
   <a href="mailto:carlosvictorlemosdasilva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/carlosvictorlemos/">
+  <a href="https://www.linkedin.com/in/carlosvictorlemos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/CarlosVLemos">
+  <a href="https://github.com/CarlosVLemos" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
 </div>
+
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CarlosVLemos&color=blueviolet&style=for-the-badge&label=Visitantes" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CarlosVLemos&color=blueviolet&style=for-the-badge&label=Visitantes+do+Perfil" alt="Profile views"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Footer"/>
+  
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!%20⭐&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Footer"/>
   
 </div>
