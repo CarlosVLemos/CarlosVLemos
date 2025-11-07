@@ -77,8 +77,9 @@ Quando não estou programando, provavelmente estou:
 
 ```python
 estudos_atuais = {
-    "DevOps": ["Docker 🐳", "Kubernetes", "CI/CD"],
-    "Backend": ["Django REST Framework", "PostgreSQL avançado"],
+    "DevOps": ["Docker 🐳", "CI/CD"],
+    "Backend": ["Django REST Framework", "Laravel", "PostgreSQL"],
+    "Frontend": ["React", "Vue.js", "Next.js"],
     "Data": ["Power BI + APIs", "Análise de anomalias"],
     "Mobile": ["Flutter", "Progressive Web Apps"],
     "Próximos": ["AWS", "Microserviços", "GraphQL"]
@@ -98,14 +99,13 @@ def aprender_sempre():
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=SEU-PROJETO-PRINCIPAL&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/SEU-PROJETO-PRINCIPAL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=SEU-SEGUNDO-PROJETO&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/SEU-SEGUNDO-PROJETO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=Guarani-Frontend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/Guarani-Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosVLemos&repo=Guarani-Backend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/CarlosVLemos/Guarani-Backend)
 
 </div>
 
 ---
 
-## 📫 Vamos Conectar?
 
 <div align="center">
   <a href="mailto:carlosvictorlemosdasilva@gmail.com">
