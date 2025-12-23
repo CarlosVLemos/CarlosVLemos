@@ -38,6 +38,7 @@ Sou **desenvolvedor em formação** apaixonado por criar **sistemas escaláveis*
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -56,28 +57,6 @@ Sou **desenvolvedor em formação** apaixonado por criar **sistemas escaláveis*
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosVLemos&show_icons=true&count_private=true&hide_border=true&title_color=A277FF&icon_color=A277FF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Victor github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVLemos&layout=compact&hide_border=true&title_color=A277FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css,scss,cmake,powershell" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosVLemos&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="Carlos Victor streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosVLemos&bg_color=0d1117&color=A277FF&line=A277FF&point=FFFFFF&area=true&hide_border=true" alt="Carlos Victor activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosVLemos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Carlos Victor trophies"/>
-</div>
-
----
 
 ## 🌱 Jornada de Aprendizado
 
